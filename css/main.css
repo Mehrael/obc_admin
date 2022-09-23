@@ -1,0 +1,27 @@
+.bdy {
+  background-color: black;
+  color: white;
+}
+
+.h {
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.frm {
+  background-color: #444;
+  color: white;
+  box-shadow: rgb(57, 182, 255) 0px 5px 20px 2px;
+}
+
+.tbl {
+
+    color: white;
+    box-shadow: rgb(57, 182, 255) 0px 5px 20px 2px;
+  }
+  
+.warning{
+  color: red;
+}
